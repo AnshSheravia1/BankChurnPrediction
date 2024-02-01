@@ -26,5 +26,5 @@
 
 ## Kaggle Competition Standing:
 - Currently ranked 1255 out of 3639 participants.
-- Achieved a public score of 0.88643.
+- Achieved a public score of 0.88819.
 
